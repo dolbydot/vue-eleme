@@ -1,4 +1,5 @@
 # vue-eleme
+一个用vue写的饿了么移动端仿站
 
 ### 使用
 - git clone
